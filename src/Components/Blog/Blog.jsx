@@ -160,9 +160,7 @@ function Blog() {
                           }
                         }}
                       />
-                      {/* <FontAwesomeIcon icon={faHeart} 
-                      className='text-red-700 p-1 transition-all duration-300 rounded-md'
-                      /> */}
+                     
                     </div>
                   </div>
                   <div className='h-5/6 w-full py-6 bg-white m-1 rounded-lg'>
